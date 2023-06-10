@@ -1,5 +1,7 @@
 # CollsCofee
 
+### This is my first static webpage during my training period.
+
 ![CollsCofee Website](collscofee.png)
 
 CollsCofee is a web application for managing a coffee shop. It provides features to handle various aspects of a coffee shop's operations, including menu management, order tracking, and customer management.
